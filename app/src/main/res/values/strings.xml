@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File Checker</string>
+    <string name="selectFile">Choisir un fichier</string>
+    <string name="pickfile">Pick a file</string>
+</resources>
